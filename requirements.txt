@@ -1,0 +1,5 @@
+torch==2.14.1
+monai==1.6.1
+nibabel==5.4.2
+numpy==2.4.6
+matplotlib==3.10.0

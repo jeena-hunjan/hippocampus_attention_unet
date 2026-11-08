@@ -1,0 +1,13 @@
+data/
+outputs/
+*.pt
+*.pth
+*.nii
+*.nii.gz
+*.tar
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+CLAUDE.md
+docs/
